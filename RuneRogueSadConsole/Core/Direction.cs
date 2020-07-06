@@ -1,4 +1,4 @@
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    // Direction values correspond to numpad numbers
    public enum Direction

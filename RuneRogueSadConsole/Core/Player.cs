@@ -1,12 +1,12 @@
 using System;
 using Microsoft.Xna.Framework;
-using RogueSharpSadConsoleSamples.Abilities;
-using RogueSharpSadConsoleSamples.Equipment;
-using RogueSharpSadConsoleSamples.Interfaces;
-using RogueSharpSadConsoleSamples.Items;
+using RuneRogueSadConsole.Abilities;
+using RuneRogueSadConsole.Equipment;
+using RuneRogueSadConsole.Interfaces;
+using RuneRogueSadConsole.Items;
 using Console = SadConsole.Consoles.Console;
 
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    public class Player : Actor
    {

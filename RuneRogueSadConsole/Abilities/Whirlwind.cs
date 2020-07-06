@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using RogueSharp;
-using RogueSharpSadConsoleSamples.Core;
+using RuneRogueSadConsole.Core;
 
-namespace RogueSharpSadConsoleSamples.Abilities
+namespace RuneRogueSadConsole.Abilities
 {
    public class Whirlwind : Ability
    {

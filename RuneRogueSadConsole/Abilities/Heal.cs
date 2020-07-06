@@ -1,7 +1,7 @@
 ﻿using System;
-using RogueSharpSadConsoleSamples.Core;
+using RuneRogueSadConsole.Core;
 
-namespace RogueSharpSadConsoleSamples.Abilities
+namespace RuneRogueSadConsole.Abilities
 {
    public class Heal : Ability
    {

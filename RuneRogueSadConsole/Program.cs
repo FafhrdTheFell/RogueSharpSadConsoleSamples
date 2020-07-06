@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RogueSharpSadConsoleSamples
+namespace RuneRogueSadConsole
 {
    public static class Program
    {

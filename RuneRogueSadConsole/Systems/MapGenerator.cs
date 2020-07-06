@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using RogueSharp;
 using RogueSharp.DiceNotation;
-using RogueSharpSadConsoleSamples.Core;
+using RuneRogueSadConsole.Core;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public class MapGenerator
    {

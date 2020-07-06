@@ -1,7 +1,7 @@
 ﻿using RogueSharp;
 using SadConsole.Consoles;
 
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    public class Stairs
    {

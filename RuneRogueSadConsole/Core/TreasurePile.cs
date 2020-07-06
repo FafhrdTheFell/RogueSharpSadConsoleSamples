@@ -1,6 +1,6 @@
-﻿using RogueSharpSadConsoleSamples.Interfaces;
+﻿using RuneRogueSadConsole.Interfaces;
 
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    public class TreasurePile
    {

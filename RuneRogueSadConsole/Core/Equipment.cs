@@ -1,10 +1,10 @@
 using Microsoft.Xna.Framework;
 using RogueSharp;
-using RogueSharpSadConsoleSamples.Equipment;
-using RogueSharpSadConsoleSamples.Interfaces;
+using RuneRogueSadConsole.Equipment;
+using RuneRogueSadConsole.Interfaces;
 using SadConsole.Consoles;
 
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    public class Equipment : IEquipment, ITreasure, Interfaces.IDrawable
    {

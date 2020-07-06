@@ -1,7 +1,7 @@
-﻿using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Systems;
+﻿using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Systems;
 
-namespace RogueSharpSadConsoleSamples.Interfaces
+namespace RuneRogueSadConsole.Interfaces
 {
    public interface IBehavior
    {

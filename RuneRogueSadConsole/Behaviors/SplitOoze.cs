@@ -1,10 +1,10 @@
 ﻿using RogueSharp;
-using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Interfaces;
-using RogueSharpSadConsoleSamples.Monsters;
-using RogueSharpSadConsoleSamples.Systems;
+using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Interfaces;
+using RuneRogueSadConsole.Monsters;
+using RuneRogueSadConsole.Systems;
 
-namespace RogueSharpSadConsoleSamples.Behaviors
+namespace RuneRogueSadConsole.Behaviors
 {
    public class SplitOoze : IBehavior
    {

@@ -1,7 +1,7 @@
-﻿using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Equipment;
+﻿using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Equipment;
 
-namespace RogueSharpSadConsoleSamples.Items
+namespace RuneRogueSadConsole.Items
 {
    public class ArmorScroll : Item
    {

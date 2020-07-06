@@ -1,9 +1,9 @@
 ﻿using RogueSharp.DiceNotation;
-using RogueSharpSadConsoleSamples.Behaviors;
-using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Systems;
+using RuneRogueSadConsole.Behaviors;
+using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Systems;
 
-namespace RogueSharpSadConsoleSamples.Monsters
+namespace RuneRogueSadConsole.Monsters
 {
    public class Goblin : Monster
    {

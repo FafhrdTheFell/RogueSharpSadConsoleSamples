@@ -1,12 +1,12 @@
 ﻿using System;
 using Microsoft.Xna.Framework;
-using RogueSharpSadConsoleSamples.Behaviors;
-using RogueSharpSadConsoleSamples.Monsters;
-using RogueSharpSadConsoleSamples.Systems;
+using RuneRogueSadConsole.Behaviors;
+using RuneRogueSadConsole.Monsters;
+using RuneRogueSadConsole.Systems;
 using SadConsole;
 using Console = SadConsole.Consoles.Console;
 
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    public class Monster : Actor
    {

@@ -1,7 +1,7 @@
-﻿using RogueSharpSadConsoleSamples.Abilities;
-using RogueSharpSadConsoleSamples.Core;
+﻿using RuneRogueSadConsole.Abilities;
+using RuneRogueSadConsole.Core;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public static class AbilityGenerator
    {

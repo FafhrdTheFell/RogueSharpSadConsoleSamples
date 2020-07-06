@@ -1,8 +1,8 @@
-﻿using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Interfaces;
-using RogueSharpSadConsoleSamples.Systems;
+﻿using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Interfaces;
+using RuneRogueSadConsole.Systems;
 
-namespace RogueSharpSadConsoleSamples.Behaviors
+namespace RuneRogueSadConsole.Behaviors
 {
    public class FullyHeal : IBehavior
    {

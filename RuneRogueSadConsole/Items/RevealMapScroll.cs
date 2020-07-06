@@ -1,7 +1,7 @@
 ﻿using RogueSharp;
-using RogueSharpSadConsoleSamples.Core;
+using RuneRogueSadConsole.Core;
 
-namespace RogueSharpSadConsoleSamples.Items
+namespace RuneRogueSadConsole.Items
 {
    public class RevealMapScroll : Item
    {

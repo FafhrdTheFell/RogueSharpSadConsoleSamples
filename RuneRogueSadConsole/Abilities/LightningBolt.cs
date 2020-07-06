@@ -1,8 +1,8 @@
 ﻿using RogueSharp;
-using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Interfaces;
+using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Interfaces;
 
-namespace RogueSharpSadConsoleSamples.Abilities
+namespace RuneRogueSadConsole.Abilities
 {
    public class LightningBolt : Ability, ITargetable
    {

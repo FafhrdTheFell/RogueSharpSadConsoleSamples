@@ -1,6 +1,6 @@
-﻿using RogueSharpSadConsoleSamples.Equipment;
+﻿using RuneRogueSadConsole.Equipment;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public class EquipmentGenerator
    {

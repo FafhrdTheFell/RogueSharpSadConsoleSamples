@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using RogueSharpSadConsoleSamples.Interfaces;
+using RuneRogueSadConsole.Interfaces;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public class SchedulingSystem
    {

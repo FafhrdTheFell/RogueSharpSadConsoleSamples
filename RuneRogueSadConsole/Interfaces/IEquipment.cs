@@ -1,4 +1,4 @@
-namespace RogueSharpSadConsoleSamples.Interfaces
+namespace RuneRogueSadConsole.Interfaces
 {
    public interface IEquipment
    {

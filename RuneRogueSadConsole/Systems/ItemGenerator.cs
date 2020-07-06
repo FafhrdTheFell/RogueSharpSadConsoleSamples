@@ -1,7 +1,7 @@
-﻿using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Items;
+﻿using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Items;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public static class ItemGenerator
    {

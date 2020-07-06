@@ -1,6 +1,6 @@
-﻿using RogueSharpSadConsoleSamples.Equipment;
+﻿using RuneRogueSadConsole.Equipment;
 
-namespace RogueSharpSadConsoleSamples.Interfaces
+namespace RuneRogueSadConsole.Interfaces
 {
    public interface IActor
    {

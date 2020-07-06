@@ -3,7 +3,7 @@ using System.Linq;
 using Microsoft.Xna.Framework;
 using SadConsole.Consoles;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public class MessageLog
    {

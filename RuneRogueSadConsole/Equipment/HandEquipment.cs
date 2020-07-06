@@ -1,4 +1,4 @@
-namespace RogueSharpSadConsoleSamples.Equipment
+namespace RuneRogueSadConsole.Equipment
 {
    public class HandEquipment : Core.Equipment
    {

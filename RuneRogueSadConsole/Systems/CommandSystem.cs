@@ -2,12 +2,12 @@
 using Microsoft.Xna.Framework.Input;
 using RogueSharp;
 using RogueSharp.DiceNotation;
-using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Equipment;
-using RogueSharpSadConsoleSamples.Interfaces;
-using RogueSharpSadConsoleSamples.Items;
+using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Equipment;
+using RuneRogueSadConsole.Interfaces;
+using RuneRogueSadConsole.Items;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public class CommandSystem
    {

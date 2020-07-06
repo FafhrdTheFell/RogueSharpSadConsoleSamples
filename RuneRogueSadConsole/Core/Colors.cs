@@ -1,6 +1,6 @@
 using Microsoft.Xna.Framework;
 
-namespace RogueSharpSadConsoleSamples.Core
+namespace RuneRogueSadConsole.Core
 {
    public static class Colors
    {

@@ -1,8 +1,8 @@
 using RogueSharp;
-using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Monsters;
+using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Monsters;
 
-namespace RogueSharpSadConsoleSamples.Systems
+namespace RuneRogueSadConsole.Systems
 {
    public static class ActorGenerator
    {

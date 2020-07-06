@@ -2,12 +2,12 @@
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 using RogueSharp.Random;
-using RogueSharpSadConsoleSamples.Core;
-using RogueSharpSadConsoleSamples.Items;
-using RogueSharpSadConsoleSamples.Systems;
+using RuneRogueSadConsole.Core;
+using RuneRogueSadConsole.Items;
+using RuneRogueSadConsole.Systems;
 using Console = SadConsole.Consoles.Console;
 
-namespace RogueSharpSadConsoleSamples
+namespace RuneRogueSadConsole
 {
    public class RogueGame : Game
    {
@@ -146,7 +146,7 @@ namespace RogueSharpSadConsoleSamples
                   DungeonMap = mapGenerator.CreateMap();
                   MessageLog = new MessageLog();
                   CommandSystem = new CommandSystem();
-                  this.Window.Title = $"RougeSharp SadConsole Example Game - Level {_mapLevel}";
+                  this.Window.Title = $"RuneRogue SadConsole - Level {_mapLevel}";
                   didPlayerAct = true;
                }
             }
